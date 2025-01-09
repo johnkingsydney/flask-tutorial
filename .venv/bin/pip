@@ -1,4 +1,4 @@
-#!/Users/johnking/Library/CloudStorage/OneDrive-Personal/Python/LearnFlask/flask-tutorial/flask-tutorial/bin/python3.12
+#!/Users/johnking/Library/CloudStorage/OneDrive-Personal/Python/LearnFlask/flask-tutorial/.venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
